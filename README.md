@@ -1,7 +1,7 @@
 # 🏥 Hospital Management System — Network Topology
 > A fully configured enterprise network simulation built in **Cisco Packet Tracer**
 
-![Network Topology](./topology.png)
+![Network Topology](./hospital-network/topology.png)
 
 ---
 
