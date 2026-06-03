@@ -113,8 +113,9 @@ ping 192.168.30.1    (cross building)
 
 ## 📸 Screenshots
 
+Screenshot 2026-06-04 000800.png
 
-
+![Working](./hospital-network/Screenshot2026-06-040000800.png)
 
 ---
 
